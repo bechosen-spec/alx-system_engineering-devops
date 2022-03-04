@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-This project is an ALX 0x00. Shell, basics
+0x01-shell_permissions readme 
